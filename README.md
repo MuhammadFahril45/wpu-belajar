@@ -1,2 +1,2 @@
-# wpu-belajar
-Repository untuk menyimpan rencana pembelajaran WPU kedepannya
+# aQ-belajar
+Repository untuk menyimpan rencana pembelajaran aQ kedepannya
