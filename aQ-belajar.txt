@@ -1,0 +1,7 @@
+LANGKAH AWAL BELAJAR PEMROGRAMAN
+
+1. Pahami Kata “Pemrograman”
+2. Belajar Salah Satu Bahasa
+3. Temukan Bahan Yang Dibutuhkan
+4. Buatlah Program Sederhana
+5. Jalinlah Networking
