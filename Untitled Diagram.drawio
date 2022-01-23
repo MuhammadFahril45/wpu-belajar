@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T08:38:52.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.4.5" etag="wPgj0oE42tWG6Xyz9l1W" type="github"><diagram id="SU5bKVWl5JrV1BomC_x-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-23T09:05:59.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="pAFYbUU3kb4jlyiuT7Y5" version="16.4.5" type="github">
+  <diagram id="SU5bKVWl5JrV1BomC_x-" name="Page-1">
+    <mxGraphModel dx="643" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_5N6I8D6smvDwOvxz5ZN-1" value="Pengguna" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5N6I8D6smvDwOvxz5ZN-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=hor;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="440" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_5N6I8D6smvDwOvxz5ZN-5" value="APLIKASI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="275" y="170" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_5N6I8D6smvDwOvxz5ZN-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5N6I8D6smvDwOvxz5ZN-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5N6I8D6smvDwOvxz5ZN-8" value="Splash Screen" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="265" y="230" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_5N6I8D6smvDwOvxz5ZN-9" value="Menu Utama" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
